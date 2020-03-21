@@ -1,4 +1,4 @@
-# AutoPyServer
+# AutoServerPython
 Python AutoServer Code Which runs on PC,support python2 and python3
 
 ------------
